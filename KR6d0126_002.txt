@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:27.436576
+#+DATE: 2015-08-30 19:50:29.005203
 #+TITLE: 妙法蓮華經憂波提舍
 #+PROPERTY: CBETA_ID T26n1519
 #+PROPERTY: ID KR6d0126
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1519
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6d0126_T_002-0005b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
-
- 《妙法蓮華經》憂波提舍卷下¶
+《妙法蓮華經》憂波提舍卷下¶
 ¶
 大乘論師婆藪槃豆釋¶
 後魏北天竺三藏菩提留支¶
@@ -265,11 +264,7 @@
 未發菩提心者之所能得。如是乃至小低頭¶
 等皆亦如是。¶
 
-3譬喻品
-:PROPERTIES:
-:head: 譬喻品第三
-:END:
-¶
+譬喻品第三¶
 
 尊者舍利弗所說偈言。¶
 
