@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 妙法蓮華經憂波提舍
+#+DATE: 2015-08-30 19:50:27.665944
+#+PROPERTY: JUAN 0
